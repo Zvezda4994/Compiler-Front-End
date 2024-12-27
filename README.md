@@ -97,8 +97,3 @@ object
     value
       false
 ```
-
----
-
-This version mirrors your documentation precisely. Let me know if you’d like any additional adjustments! 😊
-```
