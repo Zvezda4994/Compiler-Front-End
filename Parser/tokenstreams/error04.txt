@@ -1,0 +1,5 @@
+<LEFT_BRACE, {>
+<STRING, null>
+<COLON, :>
+<NUMBER, 123>
+<RIGHT_BRACE, }>

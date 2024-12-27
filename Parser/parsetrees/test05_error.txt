@@ -1,0 +1,1 @@
+Error type 6: List elements must be of the same type.

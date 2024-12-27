@@ -1,0 +1,9 @@
+<LEFT_BRACE, {>
+<STRING, price>
+<COLON, :>
+<NUMBER, .123>
+<COMMA, ,>
+<STRING, discount>
+<COLON, :>
+<NUMBER, 123.>
+<RIGHT_BRACE, }>

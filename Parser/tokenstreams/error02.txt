@@ -1,0 +1,5 @@
+<LEFT_BRACE, {>
+<STRING, >
+<COLON, :>
+<STRING, Toyota Camry 1995 LE>
+<RIGHT_BRACE, }>

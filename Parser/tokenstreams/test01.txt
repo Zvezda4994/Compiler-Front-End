@@ -1,0 +1,13 @@
+<LEFT_BRACE, {>
+<STRING, name>
+<COLON, :>
+<STRING, schlawg>
+<COMMA, ,>
+<STRING, age>
+<COLON, :>
+<NUMBER, 30>
+<COMMA, ,>
+<STRING, is_student>
+<COLON, :>
+<BOOLEAN, false>
+<RIGHT_BRACE, }>

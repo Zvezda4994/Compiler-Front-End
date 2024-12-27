@@ -1,0 +1,26 @@
+object
+  pair
+    key
+      person
+    value
+      object
+        pair
+          key
+            name
+          value
+            Alice
+        pair
+          key
+            details
+          value
+            object
+              pair
+                key
+                  age
+                value
+                  25
+              pair
+                key
+                  is_student
+                value
+                  true

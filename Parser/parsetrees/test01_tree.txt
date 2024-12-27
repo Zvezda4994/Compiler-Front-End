@@ -1,0 +1,16 @@
+object
+  pair
+    key
+      name
+    value
+      schlawg
+  pair
+    key
+      age
+    value
+      30
+  pair
+    key
+      is_student
+    value
+      false

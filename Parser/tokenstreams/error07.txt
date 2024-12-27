@@ -1,0 +1,5 @@
+<LEFT_BRACE, {>
+<STRING, broke>
+<COLON, :>
+<STRING, true>
+<RIGHT_BRACE, }>

@@ -1,0 +1,9 @@
+<LEFT_BRACKET, [>
+<NUMBER, 1>
+<COMMA, ,>
+<NUMBER, 2>
+<COMMA, ,>
+<STRING, hello>
+<COMMA, ,>
+<BOOLEAN, true>
+<RIGHT_BRACKET, ]>

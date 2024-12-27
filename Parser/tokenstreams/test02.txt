@@ -1,0 +1,7 @@
+<LEFT_BRACKET, [>
+<NUMBER, 1>
+<COMMA, ,>
+<NUMBER, 2>
+<COMMA, ,>
+<NUMBER, 3>
+<RIGHT_BRACKET, ]>
